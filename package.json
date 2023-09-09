@@ -1,0 +1,24 @@
+{
+    "name": "clientx-icon",
+    "version": "1.2.1",
+    "license": "MIT",
+    "description": "clientx - free and beautiful icons",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/clientx-platform/clientx-icon"
+    },
+    "authors": [
+        "Justin Malonson <contactme@justinmalonson.com>"
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "web font",
+        "clientx"
+    ],
+    "bugs": {
+        "url": "https://github.com/clientx-platform/clientx-icon/issues"
+    },
+    "homepage": "https://clientx.io/"
+}
